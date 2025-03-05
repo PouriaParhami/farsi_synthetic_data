@@ -7,7 +7,7 @@ import arabic_reshaper
 from bidi.algorithm import get_display
 
 # مسیر ذخیره داده‌ها
-output_dir = "synthetic_data"
+output_dir = "synthetic_data_farsi"
 os.makedirs(output_dir, exist_ok=True)
 
 # Fonts list
