@@ -1,0 +1,4 @@
+*.log
+.venv
+synthetic_data/
+__pycache__/
