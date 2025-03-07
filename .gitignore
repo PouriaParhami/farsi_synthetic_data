@@ -1,4 +1,5 @@
 *.log
 .venv
 .synthetic_data_farsi/
+.fonts/
 __pycache__/
